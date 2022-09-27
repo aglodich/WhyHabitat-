@@ -1,0 +1,197 @@
+<link href="https://cdngeneral.rentcafe.com/ClientCustom/C00000080962/HabitatCustomPagesAssets/css/bs4.css" rel="stylesheet" type="text/css" />
+<link href="https://cdngeneral.rentcafe.com/ClientCustom/C00000080962/HabitatCustomPagesAssets/css/animate.css" rel="stylesheet" type="text/css" /><script src="https://cdngeneral.rentcafe.com/ClientCustom/C00000080962/HabitatCustomPagesAssets/js/scroll-animated.js" type="text/javascript"></script>
+<style type="text/css">#innerpage .banner-image-section,
+footer {
+    /*display:none !important;*/
+}
+
+#innerpage #section3 .contentbg {
+    width: 100%;
+    padding: 0;
+}
+
+#innerpage #section3 .contentbg > .row-bs3 {
+    margin: 0;
+}
+
+#section3 {
+    padding: 0;
+}
+
+#banner {
+    position: relative;
+}
+
+#banner:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: rgb(74,208,158);
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 998;
+}
+
+#banner h1 {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: #fff;
+    z-index: 999;
+    font-family: 'Lato Light', sans-serif;
+    font-weight: normal;
+    font-size: 48px;
+    width: 100%;
+    text-align: center;
+}
+
+.background-slider-section .phone-login-section,
+.banner-image-section .phone-login-section {
+    z-index: 999;
+}
+
+
+#innerpage #ctmcontentcontainer {
+	padding: 0;
+}
+
+
+.cust-row {
+    width: 100%;
+}
+
+.w50 {
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.colorBg {
+    background: rgb(74,208,158);
+    color: #fff;
+    padding: 30px;
+}
+
+.colorBg h2 {
+    color: #fff;
+}
+
+.text-inner {
+    max-width: 600px;
+}
+
+.image-wrapper {
+    position: relative;
+}
+
+.image-wrapper:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: rgb(232,232,232);
+
+.image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center center;
+}
+#banner{
+	border-bottom: 3px solid #ffffff;
+}
+#banner img{
+	width:100%;
+	height:303px;
+	object-fit:cover;
+	object-position:center center;
+}
+#banner:after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: rgb(232,232,232);
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+@media(max-width:991px) {
+    #banner h1 {
+        font-size: 36px;
+        margin-top: 30px;
+    }
+}
+
+@media(max-width:767px) {
+    h2 br {
+        display: none;
+    }
+    .w50 {
+        width: 100%;
+    }
+    #banner h1 {
+        margin-top: 10px;
+    }
+}
+
+@media(max-width:650px) {
+    #banner h1 {
+font-family: 'Lato Light', sans-serif;
+font-size: 26px;
+        padding-left: 15px;
+        padding-right: 15px;
+        box-sizing: border-box;
+    }
+}
+
+@media(max-width:375px) {
+    #banner h1 {
+        margin-top: 20px;
+    }
+}
+
+footer > a{
+	display:none;
+}
+</style>
+<h1 class="wow fadeIn" data-wow-delay="0.5s" “font-family: 'Lato Light', sans-serif;”>Why Choose Habitat Management?</h1>
+
+<div class="d-flex flex-column flex-md-row align-items-stretch top-row cust-row">
+<div class="wow fadeIn cust-left colorBg w50 d-flex flex-column justify-content-center align-items-center order-2 order-md-1" data-wow-delay="1s">
+<div class="text-inner">
+<h2 class = “font-family: 'Lato Regular', sans-serif;”>The Habitat Promise</h2>
+
+<p>With our Habitat Promise, we are uncompromising in our commitment to our residents. As a leader in the property management industry, we provide top-tier service because the people who make up our communities deserve our best.</p>
+</div>
+</div>
+
+<div class="wow fadeInRight cust-right image-wrapper w50 order-1 order-md-2" data-wow-delay="1.5s"><img class="lazy" src="https://cdngeneral.rentcafe.com/dmslivecafe/3/458060/RightImg.jpg" /></div>
+</div>
+
+<div class="d-flex flex-column flex-md-row align-items-stretch top-row cust-row">
+<div class="cust-right image-wrapper w50 wow fadeInLeft" data-wow-delay="2.5s"><img class="lazy" src="https://cdngeneral.rentcafe.com/dmslivecafe/3/458060/LeftImg.jpg" /></div>
+
+<div class="wow fadeIn cust-left colorBg w50 d-flex flex-column justify-content-center align-items-center" data-wow-delay="2s">
+<div class="text-inner">
+<h2 class = “font-family: 'Lato Regular', sans-serif;”>We are not a one size<br />
+fits all management company</h2>
+
+<p>We take pride in the care and superb attention to detail we provide each person who calls a Habitat property home. Unique experiences and amazing memories are the ways we build our communities and keep our residents happy, and we can&rsquo; t wait for you to discover the Habitat Difference.</p>
+
+<p>Welcome to your habitat; welcome to your home.</p>
+</div>
+</div>
+</div>
+<script>
+	$('header').after('<div id="banner"><img src="https://cdngeneral.rentcafe.com/dmslivecafe/3/458060/habitat-promise-banner.jpg"></div>');
+    $('#banner').append($('h1'));
+    $('#banner').addClass('wow fadeIn').attr('data-wow-delay', '0.1s');
+    $('#banner_slider .item.active img').attr('src', '/dmslivecafe/3/458060/habitat-promise-banner.jpg');
+</script>
